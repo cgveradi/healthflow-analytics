@@ -2,7 +2,7 @@
 
 **Hospital readmissions intelligence dashboard** — an end-to-end data analytics project analyzing the CMS Hospital Readmissions Reduction Program (HRRP) dataset, built to identify which hospitals, states, and conditions are driving excess patient readmissions across the US.
 
-**Live Dashboard:** [Looker Studio / Data Studio link here]
+**Live Dashboard:** [View on Looker Studio](https://datastudio.google.com/s/pYyOyupi7Gk)
 **Stack:** Python → Google BigQuery → Looker Studio (Data Studio) → GitHub
 
 ---
